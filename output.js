@@ -1,4 +1,4 @@
-//Sun Oct 27 2024 00:46:26 GMT+0000 (Coordinated Universal Time)
+//Tue Oct 29 2024 13:14:19 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("甬派");
